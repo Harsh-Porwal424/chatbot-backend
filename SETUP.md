@@ -33,7 +33,7 @@ Create a `.env` file in the `backend` directory with the following variables:
 ```env
 MONGO_URL=mongodb+srv://admin:YOUR_PASSWORD@cluster0.oaalese.mongodb.net/?retryWrites=true&w=majority
 DB_NAME=cleardemand
-GEMINI_API_KEY=AIzaSyBFk6dxZsX6YYxyPa4l2XOEdwYl6Ju4Huw
+GEMINI_API_KEY=xxxx
 CORS_ORIGINS=http://localhost:3000
 ```
 
